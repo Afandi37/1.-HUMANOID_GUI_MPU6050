@@ -1,0 +1,10 @@
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/Humanoid_GUI.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/Humanoid_GUI_qmlimportscan.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/edit_cache.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/list_install_components.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install/local.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install/strip.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/Humanoid_GUI_autogen_timestamp_deps.dir
+/home/afandi37/Desktop/GUI/Humanoid_GUI/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/Humanoid_GUI_autogen.dir
